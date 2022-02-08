@@ -8,4 +8,8 @@ I'm a Data Engineer 👨‍💻 who is passionate about data and python. I'm als
 
 😄 Pronouns: he/him
 
-⚡ Languages: Python3, C
+⚡ Languages: Python3, C, C#
+
+🌱 I’m currently learning .NET
+
+
